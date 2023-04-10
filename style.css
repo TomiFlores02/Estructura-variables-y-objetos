@@ -175,6 +175,10 @@ html{
     .nuestros{
         font-size: 1.2rem
     }
+    
+    .footer_description{
+        margin: 10%;
+    }
 }
 
 @media (min-width: 300px) and (max-width: 400px) {
@@ -195,6 +199,10 @@ html{
     .nuestros{
         font-size: 1rem;
         padding-top: 10%
+    }
+    
+    .footer_description{
+        margin: 10%;
     }
 
 }
